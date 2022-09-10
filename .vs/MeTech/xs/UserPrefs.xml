@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{25EB27C5-22AB-45F1-BADC-874039EF84C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.MeTech.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MeTech.Business/Handlers/CampaignApplyCommandHandler.cs">
+    <Files>
+      <File FileName="MeTech.Business/Handlers/CampaignApplyCommandHandler.cs" Line="210" Column="45" />
+      <File FileName="MeTech.Domain/Entities/Campaign.cs" />
+      <File FileName="MeTech.API/Controllers/CampaignsController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeTech" expanded="True">
+            <Node name="MeTech.API" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

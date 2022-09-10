@@ -1,0 +1,15 @@
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/bin/Debug/net6.0/MeTech.Model.deps.json
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/bin/Debug/net6.0/MeTech.Model.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/bin/Debug/net6.0/MeTech.Model.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.csproj.AssemblyReference.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.AssemblyInfoInputs.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.AssemblyInfo.cs
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.csproj.CoreCompileInputs.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/refint/MeTech.Model.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/ref/MeTech.Model.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/bin/Debug/net6.0/MeTech.Domain.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/bin/Debug/net6.0/MeTech.Domain.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/Debug/net6.0/MeTech.Model.csproj.CopyComplete

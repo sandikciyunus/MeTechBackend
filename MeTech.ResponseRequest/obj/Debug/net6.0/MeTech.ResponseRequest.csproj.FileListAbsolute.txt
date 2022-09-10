@@ -1,0 +1,17 @@
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.ResponseRequest.deps.json
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.ResponseRequest.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.ResponseRequest.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.Model.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.Model.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.csproj.AssemblyReference.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.AssemblyInfoInputs.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.AssemblyInfo.cs
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.csproj.CoreCompileInputs.cache
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.csproj.CopyComplete
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/refint/MeTech.ResponseRequest.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/MeTech.ResponseRequest.pdb
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/Debug/net6.0/ref/MeTech.ResponseRequest.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.Domain.dll
+/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/bin/Debug/net6.0/MeTech.Domain.pdb

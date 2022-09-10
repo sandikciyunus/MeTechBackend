@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Product\" />
+    <None Remove="Backet\" />
+    <None Remove="Campaign\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Product\" />
+    <Folder Include="Backet\" />
+    <Folder Include="Campaign\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MeTech.Domain\MeTech.Domain.csproj" />
+  </ItemGroup>
+</Project>

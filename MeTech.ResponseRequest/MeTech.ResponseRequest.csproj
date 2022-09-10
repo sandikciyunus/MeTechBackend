@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MediatR" />
+    <None Remove="Base\" />
+    <None Remove="Product\" />
+    <None Remove="Backet\" />
+    <None Remove="Campaign\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Base\" />
+    <Folder Include="Product\" />
+    <Folder Include="Backet\" />
+    <Folder Include="Campaign\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MeTech.Model\MeTech.Model.csproj" />
+  </ItemGroup>
+</Project>

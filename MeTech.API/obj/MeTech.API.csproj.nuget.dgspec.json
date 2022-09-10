@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yunussandikci/Projects/MeTech/MeTech.API/MeTech.API.csproj": {}
+  },
+  "projects": {
+    "/Users/yunussandikci/Projects/MeTech/MeTech.API/MeTech.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunussandikci/Projects/MeTech/MeTech.API/MeTech.API.csproj",
+        "projectName": "MeTech.API",
+        "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.API/MeTech.API.csproj",
+        "packagesPath": "/Users/yunussandikci/.nuget/packages/",
+        "outputPath": "/Users/yunussandikci/Projects/MeTech/MeTech.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunussandikci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Business/MeTech.Business.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Business/MeTech.Business.csproj"
+              },
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj"
+              },
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj"
+              },
+              "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunussandikci/Projects/MeTech/MeTech.Business/MeTech.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunussandikci/Projects/MeTech/MeTech.Business/MeTech.Business.csproj",
+        "projectName": "MeTech.Business",
+        "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Business/MeTech.Business.csproj",
+        "packagesPath": "/Users/yunussandikci/.nuget/packages/",
+        "outputPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunussandikci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj"
+              },
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj"
+              },
+              "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj",
+        "projectName": "MeTech.Domain",
+        "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj",
+        "packagesPath": "/Users/yunussandikci/.nuget/packages/",
+        "outputPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunussandikci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj",
+        "projectName": "MeTech.Model",
+        "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj",
+        "packagesPath": "/Users/yunussandikci/.nuget/packages/",
+        "outputPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunussandikci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Domain/MeTech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj",
+        "projectName": "MeTech.ResponseRequest",
+        "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/MeTech.ResponseRequest.csproj",
+        "packagesPath": "/Users/yunussandikci/.nuget/packages/",
+        "outputPath": "/Users/yunussandikci/Projects/MeTech/MeTech.ResponseRequest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunussandikci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj": {
+                "projectPath": "/Users/yunussandikci/Projects/MeTech/MeTech.Model/MeTech.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
