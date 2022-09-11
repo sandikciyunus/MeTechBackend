@@ -109,8 +109,8 @@ namespace MeTech.Business.Handlers
                                     {
                                         var newPrice = productList2[i].Price - ((productList2[i].Price * campaignProduct.Rate) / 100);
                                         discountPrice= newPrice * campaignProduct.ProductCount;
-                                        var x = productList2[i].Price * (productList2[i].Count - campaignProduct.ProductCount);
-                                        productList2[i].TotalPrice = discountPrice+x;
+                                        var unDiscountPrice2 = productList2[i].Price * (productList2[i].Count - campaignProduct.ProductCount);
+                                        productList2[i].TotalPrice = discountPrice+unDiscountPrice2;
                                     }
                                     else
                                     {

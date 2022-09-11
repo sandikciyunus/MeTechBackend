@@ -1,6 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{25EB27C5-22AB-45F1-BADC-874039EF84C1}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.MeTech.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MeTech.Business/Handlers/CampaignApplyCommandHandler.cs">
